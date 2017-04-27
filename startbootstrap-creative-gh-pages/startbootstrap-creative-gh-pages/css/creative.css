@@ -394,21 +394,21 @@ fieldset[disabled] .btn-primary.active {
   padding: 15px 30px;
 }
 ::-moz-selection {
-  color: white;
+  color: red;
   text-shadow: none;
   background: #222222;
 }
 ::selection {
-  color: white;
+  color: red;
   text-shadow: none;
   background: #222222;
 }
 img::selection {
-  color: white;
+  color: red;
   background: transparent;
 }
 img::-moz-selection {
-  color: white;
+  color: red;
   background: transparent;
 }
 body {
