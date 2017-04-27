@@ -155,7 +155,7 @@ header {
   background-size: cover;
   -o-background-size: cover;
   background-position: center;
-  background-image: url('../img/header.jpg');
+  background-image: url("startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/img/header.jpg");
   text-align: center;
   color: white;
 }
