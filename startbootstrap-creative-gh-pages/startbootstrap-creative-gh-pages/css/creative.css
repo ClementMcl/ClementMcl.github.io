@@ -82,7 +82,7 @@ aside {
 .navbar-default .navbar-header .navbar-toggle {
   font-weight: 700;
   font-size: 12px;
-  color: #222222;
+  color: #FF4500;
   text-transform: uppercase;
 }
 .navbar-default .nav > li > a,
@@ -90,7 +90,7 @@ aside {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 13px;
-  color: #222222;
+  color: #FF4500;
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
@@ -157,7 +157,7 @@ header {
   background-position: center;
   background-image: url("startbootstrap-creative-gh-pages/startbootstrap-creative-gh-pages/img/header.jpg");
   text-align: center;
-  color: white;
+  color: #FF4500;
 }
 header .header-content {
   position: relative;
